@@ -1,0 +1,21 @@
+{
+  "name": "short-url",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maksad",
+  "license": "MIT",
+  "dependencies": {
+    "compare-urls": "^1.0.0",
+    "express": "^4.15.2",
+    "mongodb": "^2.2.29",
+    "monk": "^6.0.1",
+    "pug": "^2.0.0-rc.2",
+    "shortid": "^2.2.8",
+    "validator": "^7.0.0"
+  }
+}
